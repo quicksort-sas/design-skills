@@ -1,0 +1,19 @@
+/* Quicksort design tokens. Fonts: https://fonts.google.com/specimen/Host+Grotesk and https://fonts.google.com/specimen/Martian+Mono */
+:root {
+  --ink: #141414;
+  --ink-2: #1A1A1A;
+  --ink-line: #2A2A2A;
+  --ink-line-2: #3A3A3A;
+  --ink-muted: #9A968F;
+  --ink-faint: #6E6A64;
+  --paper: #F3F0E8;
+  --paper-2: #FAF8F3;
+  --stone-200: #E4E1DB;
+  --stone-300: #B8B4AD;
+  --stone-400: #8E8A83;
+  --stone-500: #736C61;
+  --stone-600: #55504A;
+  --lime: #CCFF00;
+  --font-sans: "Host Grotesk", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "Martian Mono", ui-monospace, monospace;
+}
