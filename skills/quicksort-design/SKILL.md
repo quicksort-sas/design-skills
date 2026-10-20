@@ -1,6 +1,6 @@
 ---
 name: quicksort-design
-description: Quicksort brand and design system. Use whenever you make anything for Quicksort, the AI strategy and engineering firm (a page, slide, deck, social post, event cover, chart, document or UI): it gives the colours, typefaces, logo, the lime pivot rule, icons, isometric figures, motion and voice, plus the asset files to use.
+description: "Quicksort brand and design system. Use whenever you make anything for Quicksort, the AI strategy and engineering firm (a page, slide, deck, social post, event cover, chart, document or UI): it gives the colours, typefaces, logo, the lime pivot rule, icons, isometric figures, motion and voice, plus the asset files to use."
 ---
 
 # Quicksort design system
